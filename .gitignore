@@ -1,0 +1,63 @@
+# Windows / Explorer
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Editores e IDEs
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*~
+*.swp
+*.swo
+
+# PowerShell / erros e diagnósticos
+*.transcript.txt
+*.trace.log
+*.debug.log
+logs/
+log/
+*.stackdump
+
+# Temporários, caches e backups
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.cache
+*.pid
+*.lock
+*.ps1.bak
+*.bat.bak
+*.cmd.bak
+
+# Distribuições geradas
+build/
+dist/
+out/
+artifacts/
+*.zip
+*.7z
+*.rar
+
+# Dados locais e potencialmente sensíveis
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.key
+*.pem
+
+# Arquivos reservados para distribuição de documentação e exemplos:
+# NÃO ignorar scripts *.bat, *.cmd, *.ps1, *.psm1, *.psd1,
+# arquivos Markdown, imagens, temas ou checkpoints técnicos.

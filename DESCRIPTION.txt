@@ -1,0 +1,1 @@
+Framework e padrões de design para interfaces modernas de console no Windows, com menus interativos, componentes reutilizáveis, estilos visuais e suporte a BAT e PowerShell.
